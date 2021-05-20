@@ -114,3 +114,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# matlab and numpy data
+*.npy
+*.mat
+
